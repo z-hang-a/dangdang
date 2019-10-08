@@ -295,5 +295,5 @@ def old_address(request):
 def demo2(request):
     print('第二次输出')
     print('666233')
-    print('diw3ejdfsafs')
+
 
