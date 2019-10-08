@@ -289,7 +289,8 @@ def old_address(request):
     except:
         return HttpResponse('0')
 
-
+def demo(request):
+    pass
 
 
 def demo2(request):
