@@ -292,3 +292,6 @@ def old_address(request):
 
 def demo(request):
     print('1233')
+
+def demo2(request):
+    print('第二次输出')
