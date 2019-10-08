@@ -290,8 +290,7 @@ def old_address(request):
         return HttpResponse('0')
 
 
-def demo(request):
-    print('1233')
+
 
 def demo2(request):
     print('第二次输出')
