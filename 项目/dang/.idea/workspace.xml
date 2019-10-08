@@ -56,19 +56,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\项目\dang" />
+      <recent name="F:\项目\dang\carapp" />
+      <recent name="F:\项目\dang\static" />
+      <recent name="F:\项目\dang\static\js" />
+      <recent name="F:\项目\dang\adminapp" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\项目\dang\static\images" />
       <recent name="F:\项目\dang\templates\indexapp" />
       <recent name="F:\项目\dang\templates" />
       <recent name="F:\项目\dang\templates\adminapp" />
       <recent name="F:\项目\dang\static" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\项目\dang\carapp" />
-      <recent name="F:\项目\dang\static" />
-      <recent name="F:\项目\dang\static\js" />
-      <recent name="F:\项目\dang\adminapp" />
-      <recent name="F:\项目\dang" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -136,7 +136,7 @@
       <workItem from="1567730069107" duration="27517000" />
       <workItem from="1567904652006" duration="17539000" />
       <workItem from="1567989063586" duration="9173000" />
-      <workItem from="1570532921296" duration="240000" />
+      <workItem from="1570532921296" duration="2342000" />
     </task>
     <servers />
   </component>
