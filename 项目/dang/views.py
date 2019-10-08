@@ -290,4 +290,5 @@ def old_address(request):
         return HttpResponse('0')
 
 
-
+def demo(request):
+    print('123')
