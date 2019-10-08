@@ -290,7 +290,7 @@ def old_address(request):
         return HttpResponse('0')
 
 def demo(request):
-    pass
+    print(996)
 
 
 def demo2(request):
