@@ -292,6 +292,9 @@ def old_address(request):
 def demo(request):
     print(996)
 
+def demo3(request):
+    print('最新添加')
+
 
 def demo2(request):
     print('第二次输出')
